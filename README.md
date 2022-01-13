@@ -1,38 +1,3 @@
-![veryacademy](/logo.svg)
-
-<div align="center">
-  <h1>Django E-commerce Tutorial Series</h1>
-</div>
-
-<div align="center">
-  <strong>Learn Python and the Django Framework by building a e-commerce website</strong>
-</div>
-
-<div align="center">
-  The Django E-commerce project is an open-source initiative and tutorial series. Learn from a beginner level how to build an e-commerce website.
-</div>
-
-<br>
-
-<div align="center">
-  Please join our active, growing community: <br>
-  <a href="#">Website (Coming Soon)</a>
-  <span> | </span>
-  <a href="https://twitter.com/VeryAcademy">Twitter</a>
-  <span> | </span>
-  <a href="https://www.youtube.com/veryacademy">YouTube</a>
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.paypal.com/donate?hosted_button_id=W55GVT4UPXPYE" 
-target="_blank">
-<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="PayPal this" 
-title="PayPal – The safer, easier way to pay online!" border="0" />
-</a>
-</div>
-
 ## Aims of this course
 The aims of this course is to:
 * learn the Django framework
@@ -49,14 +14,6 @@ On this course you will be taught a wide range of skills, here are a few topics 
 * Testing with Pytest
 * Working with Django and Docker
 * Deploying Django Applications
-
-<!-- ## Demo
-
-See the current build live by launching the latest version of the e-commerce application on a free Heroku instance. You will need a Free Heroku account if you havent already got an active account.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Login details: `a@a.com`/`admin` -->
 
 ## Tutorials
 The tutorials, found [here](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_) on our YouTube channel take you through the steps of developing an e-commerce application with Python Django, predominately deploying the Django template system.
@@ -217,3 +174,7 @@ Zander, the founder of Very Academy has over 20 years of development and educati
 
 ## License
 [MIT License](LICENSE)
+
+
+## Author
+Comet Web Developer

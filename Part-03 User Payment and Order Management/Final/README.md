@@ -24,3 +24,7 @@ STRIPE_ENDPOINT_SECRET = ''
 # Admin login
 1. http://127.0.0.1:8000/admin
 2. username and password = admin
+
+## Created By
+
+Comet Web Developer
